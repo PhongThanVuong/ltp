@@ -30,7 +30,7 @@ TST_TOTAL=8
 dev_num=4
 # This is a list of parameters for zram devices.
 # Number of items must be equal to 'dev_num' parameter.
-zram_max_streams="2 3 5 8"
+zram_max_streams="2 3 5 8"hgkj
 
 FS_SIZE="402653184"
 FS_TYPE="btrfs"
